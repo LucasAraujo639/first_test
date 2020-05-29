@@ -1,8 +1,4 @@
 Esta es la historia de un enano loco
 que tenia ganas de jugar imperium y ser del clan vitae
-<<<<<<< HEAD
-es caos berserker nivel 50 llamado duracelll
-=======
 es caos berserker nivel 50 llamado duracelll
 este es un berseker peligroso
->>>>>>> cabecera
